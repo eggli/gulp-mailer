@@ -1,0 +1,21 @@
+{
+  "name": "gulp-mailer",
+  "version": "0.1.0",
+  "description": "A gulp task to send emails with nodemailer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meerkats/gulp-mailer"
+  },
+  "author": "Meerkats",
+  "bugs": {
+    "url": "https://github.com/meerkats/gulp-mailer/issues"
+  },
+  "homepage": "https://github.com/meerkats/gulp-mailer",
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "through2": "^0.5.1",
+    "nodemailer": "^1.0.3",
+    "gulp-util": "^2.2.20"
+  }
+}

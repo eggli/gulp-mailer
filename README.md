@@ -2,11 +2,6 @@
 
 Send emails using `nodemailer` in your gulp builds.
 
-## Install
-
-```sh
-$ npm install --save gulp-mailer
-```
 ## Usage
 
 ```js
